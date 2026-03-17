@@ -1,0 +1,39 @@
+{
+    "resume_skills": [
+        "c",
+        "css",
+        "html",
+        "java",
+        "javascript",
+        "machine learning",
+        "python",
+        "react"
+    ],
+    "job_skills": [
+        "communication",
+        "css",
+        "django",
+        "flask",
+        "html",
+        "machine learning",
+        "numpy",
+        "problem solving",
+        "python",
+        "sql"
+    ],
+    "matching_skills": [
+        "css",
+        "html",
+        "machine learning",
+        "python"
+    ],
+    "missing_skills": [
+        "communication",
+        "django",
+        "flask",
+        "numpy",
+        "problem solving",
+        "sql"
+    ],
+    "match_percentage": 50.0
+}
