@@ -21,7 +21,7 @@ def analyze(resume_path, jd_path, desired_role):
 
     match_result = match_skills(resume_skills, jd_skills)
 
-    ats_score = calculate_ats(resume_skills, jd_skills)
+    ats_score = calculate_ats(resume_skills, jd_skills,resume_text)
 
     jobs = recommend_jobs(resume_skills)
 
